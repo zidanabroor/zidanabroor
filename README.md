@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zidanabroor
-- 👀 I’m interested in code amd games
-- 🌱 I’m currently learning java script
+- 👀 I’m interested in code and games
+- 🌱 I’m currently learning javascript
 
 <!---
 zidanabroor/zidanabroor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
